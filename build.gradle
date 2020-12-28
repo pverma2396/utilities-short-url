@@ -15,6 +15,6 @@ dependencies {
 }
 
 run {
-    mainClassName = "com.crio.shorturl.ShortUrlMain"
+    mainClassName = "com.crio.shorturl.XUrlMain"
     enableAssertions = true
 }
